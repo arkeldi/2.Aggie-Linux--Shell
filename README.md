@@ -6,7 +6,7 @@ In this programming project, I implemented my very own Linux shell that is calle
 
 **Tasks**
 
-Your tasks are to build a shell that supports the following:
+This shell is built to support to following:
   - [ ] basic commands
   - [ ] commands in a pipeline
   - [ ] file input/output redirection
